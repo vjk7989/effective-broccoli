@@ -1,0 +1,4 @@
+streamlit
+pandas
+openpyxl
+textblob  # Or any other libraries you use
